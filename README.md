@@ -1,6 +1,4 @@
-# Nft-game
-
-# Avax Gods - Online Multiplayer Web3 NFT Multiplayer Card Game
+# AVAXGODS Online Multiplayer Web3 NFT Multiplayer Card Game
 
 ## Instructions on setting up the Web3 part of the project
 0. `cd web3`
